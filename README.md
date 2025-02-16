@@ -71,4 +71,4 @@ Ikuti langkah-langkah berikut secara berurutan:
 
 ---
 
-Dokumentasi ini mencakup seluruh langkah dari clone repository, setup virtual environment, instalasi dependencies, hingga menjalankan dashboard. Jika ada pertanyaan atau perbaikan lebih lanjut, silakan hubungi pembuat.
+Dokumentasi ini mencakup seluruh langkah dari clone repository, setup virtual environment, instalasi dependencies, hingga menjalankan dashboard.
